@@ -81,10 +81,6 @@ CLIENT_URL=http://localhost:3000
 | PUT | /api/cards/:id | Update/move a card |
 | DELETE | /api/cards/:id | Delete a card |
 
-## Screenshots
-
-_Add screenshots/GIF of your app here after running it!_
-
 ## Future Improvements
 
 - File attachments on cards
