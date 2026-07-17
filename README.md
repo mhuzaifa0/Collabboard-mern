@@ -4,7 +4,7 @@ A real-time collaborative project management tool (Trello-style) built with the 
 
 ## Features
 
-- 🔐 User authentication (JWT + bcrypt)
+- 🔐 User authentication (JWT , bcrypt)
 - 📋 Create boards, lists, and cards
 - 🖱️ Drag & drop cards between lists
 - ⚡ Real-time updates via Socket.io (see changes live across users)
