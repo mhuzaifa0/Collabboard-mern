@@ -23,7 +23,7 @@ A real-time collaborative project management tool (Trello-style) built with the 
 
 ```
 collabboard-mern/
-├── client/          # React frontend
+├── client/          # Reactt frontend
 └── server/          # Express backend
 ```
 
